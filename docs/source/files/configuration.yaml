@@ -26,7 +26,7 @@ api:
 
 # Enable Over The Air updates
 ota:
-
+  platform: esphome
 
 #Public location of this yaml file
 dashboard_import:
