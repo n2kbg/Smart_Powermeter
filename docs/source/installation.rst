@@ -13,14 +13,6 @@ the |Product| can be deployed and installed on it's final place, like an electri
 
 1. Locate an empty space on the DIN rail where you can install the enclosed |Product| and mount it.
 2. Plug the CT-clamps into the |Product| through the jack connectors. 
-
-.. Important::
-    Don't introduce the jack connector completelly, leave ~1 millimeter, otherwise you might not see any signal.
-
-.. image:: images/getting_started/clamps_details.jpg
-    :width: 50%
-    
-
 3. Open the CT-clamps and close them around the power line you want to measure.
 
 .. Caution:: 

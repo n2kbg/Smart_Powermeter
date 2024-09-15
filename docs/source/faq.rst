@@ -1,6 +1,9 @@
 💬 :term:`FAQ`
 =============================
 
+When trying to flash the |Product| with `ESPHome Web <https://web.esphome.io>`_ , I get a spinning ring with "connecting" for a few seconds and then it errors out with "Failed to initialize".
+    This is an issue related to `ESPHome Web <https://web.esphome.io>`_ when trying to flash ESP32-S2 modules and (at the moment of writing this guide) is still unsolved. Please check alternative ways (on the :ref:`esphome` programming section) of flashing the |Product|. 
+
 Can I upload ESPHome directly from the Home Assistance setup running on my Raspberry Pi?
     Yes you can, and actually this is one of the simplest and more effective way to upload ESPHome.
 
